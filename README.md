@@ -1,5 +1,9 @@
 # CAN-CANLogger-public
 
+## Steps to assemble:
+1) CHD
+2) CMI
+
 ## To do:
 ### Open-source work:
 * Need to finish CANHardwareDecoder repo
