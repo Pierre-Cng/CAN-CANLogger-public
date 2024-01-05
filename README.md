@@ -3,6 +3,7 @@
 ## Steps to assemble:
 1) CHD
 2) CMI
+3) Server
 
 ## To do:
 ### Open-source work:
